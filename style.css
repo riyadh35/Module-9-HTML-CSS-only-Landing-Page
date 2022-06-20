@@ -178,6 +178,7 @@ couses styles
 @media only screen and (min-width:688px) and (max-width:992px) {
     .container {
         width: 100%;
+        margin-left: 10px;
     }
 
     .players,
